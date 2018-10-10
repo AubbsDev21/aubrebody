@@ -1718,6 +1718,9 @@ PORTFOLIO
 #Chatter h2, h3 {
   color: #FF8AD8
 }
+.AcidRain h2, h3 {
+    color: rgb(0, 255, 0);
+}
 
 /* Live Header */
 .large-header {
