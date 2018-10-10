@@ -1703,6 +1703,7 @@ PORTFOLIO
 	-webkit-animation-delay:0s; /* Safari 和 Chrome */
 }
 /* end of arrows*/
+/*Profilio font */
 .Chatme h2, h4{
   color: #8DD6AF;
 }
@@ -1721,7 +1722,11 @@ PORTFOLIO
 .AcidRain h2, h3 {
     color: rgb(0, 255, 0);
 }
+.acidimg img {
+    float: right;
+}
 
+/* Ending  */
 /* Live Header */
 .large-header {
    position: relative;
